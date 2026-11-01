@@ -1,0 +1,13 @@
+{
+  "name": "kovik-intelligence",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Kovik Intelligence AI Website Builder — powered by Kovik Digital Solutions",
+  "type": "module",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "start": "node server.mjs"
+  }
+}
